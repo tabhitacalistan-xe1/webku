@@ -11,7 +11,7 @@ body{
 	margin:auto;
 	height:120px;
 	line-height:120px;
-	background:#417aa8;
+	background:#30364f;
 	color:#fff;
 }
 
@@ -20,7 +20,7 @@ body{
 }
 
 .menu{
-	background-color:#417aa8;
+	background-color:#acbac4;
 	height:50px;
 	line-height:50px;
 	position:relative;
@@ -57,7 +57,7 @@ body{
 }
 
 .border{
-	border:2px solid #4887b9;
+	border:2px solid #e1d9bc;
 	margin-top:1pc;
 	padding-bottom:1pc;
 	padding-left:2pc;
@@ -89,7 +89,7 @@ body{
 	margin:auto;
 	height:40px;
 	line-height:40px;
-	background:#417aa8;
+	background:#f0f0db;
 	color:#fff;
 	margin-botton: 1pc;
 }
